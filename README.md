@@ -1,7 +1,7 @@
 # krita-ai-diffusion-Chinese
 krita-ai-diffusion-Chinese是krita-ai-diffusion的汉化版，原作者地址：https://github.com/Acly/krita-ai-diffusion
 
- Generative AI for Krita
+# Generative AI for Krita
 ✨Features | ⭳ 下载 | 🛠️Installation | 🎞️ Video | 🖼️Screenshots | 📖Wiki | 💬Discussion
 
 Generate images from within Krita with minimal fuss: Select an area, push a button, and new content that matches your image will be generated. Or expand your canvas and fill new areas with generated content that blends right in. Text prompts are optional. No tweaking required!
